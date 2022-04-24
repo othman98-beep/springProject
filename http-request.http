@@ -1,0 +1,10 @@
+###
+POST http://0.0.0.0:8080/api/v1/etudiant
+Content-Type: application/json
+{
+"nom" : "HSSAINI OTHMANE" ,
+"email" : "othmane.hssaini@uir.ac.ma" ,
+"dateDeNaissance" : "1998-07-14"
+}
+
+###
